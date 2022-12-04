@@ -22,8 +22,8 @@
 #include <cstring>
 #include <sstream>
 
-#define PWL_LEFT_FILLED ""
-#define PWL_RIGHT_FILLED ""
+#define PWL_LEFT_FILLED ""
+#define PWL_RIGHT_FILLED ""
 
 const char * bg2fg( const char s[] )
 {
